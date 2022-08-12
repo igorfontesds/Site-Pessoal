@@ -3,7 +3,7 @@ Aprendendo HTML e CSS3
 
 
 
-## Coisas que aprendi até agora!
+## Coisas que aprendi até agora e adicionei no site.
 
 - Estrutura básica (HTML)
 
@@ -29,4 +29,20 @@ Aprendendo HTML e CSS3
 
 
   ## *Continuando os estudos (CSS3) e modelando mais ainda o Site.*
+  Aprendi estilização dos textos:
+  - font-family
+  - font-size
+  - font-style
+  - font-weight
+  - text-transform
+  - text-decoration
 
+  Estilizando listas:
+  -list-style-type
+  -list-style-image
+
+  
+
+
+
+  
